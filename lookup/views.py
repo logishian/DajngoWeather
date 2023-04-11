@@ -1,3 +1,4 @@
+# This is a comment
 from django.shortcuts import render
 # Create your views here.
 
